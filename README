@@ -2,4 +2,7 @@ Mathscapes Typography Submodule
 v0.1.0
 
 Run SCSS server
-$ sass --watch typography.scss:typography.css
+$ sass --watch src/typography.scss:build/typography.css
+
+PRODUCTION
+Replace font face URLs

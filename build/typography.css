@@ -1,6 +1,6 @@
 @font-face {
   font-family: "ApfelGrotezk";
-  src: url("../font/web/ApfelGrotezk-Regular.woff2") format("woff2"), url("font/web/ApfelGrotezk-Regular.woff2") format("woff"); }
+  src: url("../font/ApfelGrotezk/web/ApfelGrotezk-Regular.woff2") format("woff2"), url("../font/ApfelGrotezk/web/ApfelGrotezk-Regular.woff2") format("woff"); }
 * {
   box-sizing: content-box; }
 
@@ -11,7 +11,7 @@ h1 {
   font-size: 40px;
   line-height: 54px;
   letter-spacing: 0.02em;
-  margin-top: 108px;
+  margin-top: 0px;
   margin-bottom: 54px; }
 
 h2 {
@@ -21,47 +21,47 @@ h2 {
   font-size: 30px;
   line-height: 40px;
   letter-spacing: 0.02em;
-  margin-top: 80px;
+  margin-top: 0px;
   margin-bottom: 40px; }
 
 h3 {
-  font-family: "Apfel Grotezk", sans-serif;
+  font-family: "ApfelGrotezk", sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
   line-height: 30px;
   letter-spacing: 0.01em;
-  margin-top: 60px;
+  margin-top: 0px;
   margin-bottom: 30px; }
 
 h4 {
-  font-family: "Apfel Grotezk", sans-serif;
+  font-family: "ApfelGrotezk", sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
   line-height: 27px;
   letter-spacing: 0.01em;
-  margin-top: 54px;
+  margin-top: 0px;
   margin-bottom: 27px; }
 
 p {
-  font-family: "Apfel Grotezk", sans-serif;
+  font-family: "ApfelGrotezk", sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
   line-height: 24px;
   letter-spacing: 0.01em;
-  margin-top: 48px;
+  margin-top: 0px;
   margin-bottom: 24px; }
 
 small {
-  font-family: "Apfel Grotezk", sans-serif;
+  font-family: "ApfelGrotezk", sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
   line-height: 18px;
   letter-spacing: 0.01em;
-  margin-top: 36px;
+  margin-top: 0px;
   margin-bottom: 18px; }
 
 /*# sourceMappingURL=typography.css.map */
