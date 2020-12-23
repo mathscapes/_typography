@@ -1,0 +1,85 @@
+$primary-font: "Apfel Grotezk";
+
+@mixin typography-basic
+{
+    font-family: $primary-font;
+    font-style: normal;
+    font-weight: normal;
+}
+
+@mixin typography-level1 {
+    @include typography-basic;
+    
+    font-size: 40px;
+    line-height: 54px;
+    letter-spacing: 0.02em;
+
+    margin-top: 108px;
+    margin-bottom: 54px;
+}
+
+@mixin typography-level2 {
+    @include typography-basic;
+
+    font-size: 30px;
+    line-height: 40px;
+    letter-spacing: 0.02em;
+
+    margin-top: 80px;
+    margin-bottom: 40px;
+}
+
+@mixin typography-level3 {
+    @include typography-basic;
+
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0.01em;   
+
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
+
+@mixin typography-level4 {
+    @include typography-basic;
+
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: 0.01em;
+
+    margin-top: 54px;
+    margin-bottom: 27px;
+}
+
+@mixin typography-level5 {
+    @include typography-basic;
+    
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.01em;
+
+    margin-top: 48px;
+    margin-bottom: 24px;
+}
+
+@mixin typography-level6 {
+    @include typography-basic;
+    
+    font-size: 14px;
+    line-height: 18px;
+    letter-spacing: 0.01em;
+
+    margin-top: 36px;
+    margin-bottom: 18px;
+}
+
+@mixin typography-level7 {
+    @include typography-basic;
+    
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 0.01em;
+    
+    margin-top: 32px;
+    margin-bottom: 16px;
+}
