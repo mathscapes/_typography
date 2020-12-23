@@ -1,0 +1,5 @@
+Mathscapes Typography Submodule
+v0.1.0
+
+Run SCSS server
+$ sass --watch typography.scss:typography.css

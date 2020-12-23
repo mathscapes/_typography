@@ -1,0 +1,64 @@
+* {
+  box-sizing: content-box; }
+
+h1 {
+  font-family: "Apfel Grotezk";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 54px;
+  letter-spacing: 0.02em;
+  margin-top: 108px;
+  margin-bottom: 54px; }
+
+h2 {
+  font-family: "Apfel Grotezk";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 40px;
+  letter-spacing: 0.02em;
+  margin-top: 80px;
+  margin-bottom: 40px; }
+
+h3 {
+  font-family: "Apfel Grotezk";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 30px;
+  letter-spacing: 0.01em;
+  margin-top: 60px;
+  margin-bottom: 30px; }
+
+h4 {
+  font-family: "Apfel Grotezk";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 27px;
+  letter-spacing: 0.01em;
+  margin-top: 54px;
+  margin-bottom: 27px; }
+
+p {
+  font-family: "Apfel Grotezk";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.01em;
+  margin-top: 48px;
+  margin-bottom: 24px; }
+
+small {
+  font-family: "Apfel Grotezk";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 18px;
+  letter-spacing: 0.01em;
+  margin-top: 36px;
+  margin-bottom: 18px; }
+
+/*# sourceMappingURL=typography.css.map */

@@ -83,3 +83,31 @@ $primary-font: "Apfel Grotezk";
     margin-top: 32px;
     margin-bottom: 16px;
 }
+
+* {
+    box-sizing: content-box;
+}
+
+h1 {
+    @include typography-level1;
+}
+
+h2 {
+    @include typography-level2;
+}
+
+h3 {
+    @include typography-level3;
+}
+
+h4 {
+    @include typography-level4;
+}
+
+p {
+    @include typography-level5;
+}
+
+small {
+    @include typography-level6;
+}
